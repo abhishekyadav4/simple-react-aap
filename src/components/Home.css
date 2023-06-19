@@ -1,0 +1,12 @@
+
+
+img{
+    width:  350px;
+    height: 350px;
+    margin-top: 1.5rem;
+}
+.container{
+   
+    display: flex;
+    margin-top: 1rem;
+}
